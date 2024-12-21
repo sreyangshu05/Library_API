@@ -35,7 +35,7 @@ Follow these steps to set up the project locally:
 
 1. **Run the API**
    ```bash
-   git clone https://github.com/your-username/library-management-system.git
+   git clone https://github.com/sreyangshu05/library-management-system.git
    cd library-management-system
    python app.py
 
